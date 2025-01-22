@@ -1,0 +1,45 @@
+#head{
+    text-align: left;
+}
+#table{
+    background-color: black;
+    width: 1000px;
+    height: 750px;
+}
+
+.tr1{
+    background-color: grey;
+}
+
+.tr2{
+    background-color: white;
+    text-align: center;
+}
+
+.td1{
+    background-color: lightblue;
+}
+
+.td2{
+    background-color: burlywood;
+}
+
+#td3{
+    background-color: orange;
+}
+
+.td4{
+    background-color: pink;
+}
+
+.td5{
+    background-color: green;
+}
+
+.td6{
+    background-color: yellow;
+}
+
+.th{
+    width: 150px;
+}
